@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "functional": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "map": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
