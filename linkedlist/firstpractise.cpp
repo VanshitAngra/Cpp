@@ -78,12 +78,8 @@ void insertatanypos(Node* &head,Node* &tail,int pos,int d)
         tail=insert;
         return;
     }
-    insert->next=temp->next;
-    temp->next=insert;
-    
-  
-    
-   
+    // insert->next=temp->next;
+    // temp->next=insert;  
 }
 
     void print(Node* &head)
