@@ -6,7 +6,8 @@
         "unordered_map": "cpp",
         "vector": "cpp",
         "*.tcc": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "iostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
